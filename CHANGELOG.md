@@ -1,5 +1,12 @@
 # Changelog
 
+## [7.5.0](https://github.com/Arize-ai/phoenix/compare/arize-phoenix-v7.4.0...arize-phoenix-v7.5.0) (2025-01-03)
+
+
+### Features
+
+* **components:** Disclosure (fka Accordion) ([#5873](https://github.com/Arize-ai/phoenix/issues/5873)) ([ea8a7c7](https://github.com/Arize-ai/phoenix/commit/ea8a7c7fba24c289c8009ea3f795cf463557d63a))
+
 ## [7.4.0](https://github.com/Arize-ai/phoenix/compare/arize-phoenix-v7.3.2...arize-phoenix-v7.4.0) (2025-01-02)
 
 
